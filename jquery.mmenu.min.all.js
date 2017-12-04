@@ -65,7 +65,7 @@ $(document).ready(function(){
 
 $(document).ready(function() {
   $("#cssmenu").menumaker({
-    title: "Danh má»¥c menu",
+    title: "Danh mục menu",
     format: "multitoggle"
   });
 
